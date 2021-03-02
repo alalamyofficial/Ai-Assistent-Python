@@ -1,0 +1,7 @@
+pip install speech_recognition
+pip install pipwin
+pipwin install pyaudio
+pip install pyttsx3
+pip install pywhatkit
+pip install pyjokes
+pip install playsound
